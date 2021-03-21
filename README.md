@@ -12,4 +12,4 @@
 
 ##### Want to know more about me?
 
-(My Portfolio)[https://ikehcharles.dev]
+[My Portfolio](https://ikehcharles.dev)
